@@ -34,3 +34,4 @@ I've spent ~ 80 hours messing with Ableton Push and a bunch of time on Hooktheor
 - Ableton Push - Makes Ableton feel like an instrument
 - Figure (iOS) - Try it for making weird little riffs on the go
 - Samplr (iOS) - Chops up vocals beautifully, someone should get good with it
+- Splice - GitHub for Ableton allows you to sync project changes with multiple collaborators and peak inside other people's workflows
