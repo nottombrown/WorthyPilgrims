@@ -10,7 +10,7 @@ Before the end of the year, we want to get each of us to one of our destinations
 
 *Destinations:* https://soundcloud.com/nottombrown/sets/destinations
 
-I've spent ~ 80 hours messing with Ableton Push and a bunch of time on Hooktheory. I can play basic melodies and chords on the Push synth pads.
+*Creations:* https://blend.io/dsrtd
 
 ### Nathan Hayflick (NAYHAY)
 
@@ -23,7 +23,8 @@ I've spent ~ 80 hours messing with Ableton Push and a bunch of time on Hooktheor
 ### AJ Asver (AJX)
 
 *Destinations:* https://soundcloud.com/a-j-x/sets/destinations
-*Creations* https://blend.io/ajx
+
+*Creations:* https://blend.io/ajx
 
 # Spirit Guides
 
