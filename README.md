@@ -20,6 +20,11 @@ I've spent ~ 80 hours messing with Ableton Push and a bunch of time on Hooktheor
 
 *Destinations:* https://soundcloud.com/tikhon-bernstam/sets/rausch
 
+### AJ Asver (AJX)
+
+*Destinations:* https://soundcloud.com/a-j-x/sets/destinations
+*Creations* https://blend.io/ajx
+
 # Spirit Guides
 
 - [Hooktheory Ear Training](http://www.hooktheory.com/ear-training) - Make an account and practice every day
